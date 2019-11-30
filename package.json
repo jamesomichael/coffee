@@ -1,0 +1,23 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomichael1994/coffee.git"
+  },
+  "author": "James Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomichael1994/coffee/issues"
+  },
+  "homepage": "https://github.com/jomichael1994/coffee#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "0.0.1-security"
+  }
+}
